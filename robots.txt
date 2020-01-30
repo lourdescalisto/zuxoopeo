@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahphaawaid.hotcrazyquiz.com/sitemap.xml
